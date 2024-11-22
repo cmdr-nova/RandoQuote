@@ -5,4 +5,4 @@ Just place it into your website's JS directory (wherever that may be), and then 
 ```
 <script src="randomQuote.js"></script>
 ```
-And you're golden.
+And you're golden (use a css element to customize the way it's displayed).
