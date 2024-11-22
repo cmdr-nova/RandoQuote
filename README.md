@@ -9,6 +9,6 @@ And you're golden (use a css element to customize the way it's displayed).
 
 This script doesn't actually *generate* any quotes *for you*. You have to actually put some quotes into the script itself, but that's easy peasy, right? Just gather up a bunch of quotes you like, and write them into the file like this:
 ```
-"John was a ploppy boy. - His mom",
+"John was a ploppy boy. -His mom",
 "Stuff is hard, and stuff is easy. -Captain Obvious"
 ```
